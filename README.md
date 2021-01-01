@@ -2,7 +2,7 @@
 
 Je suis Gaëlle, développeuse web à l'île de la Réunion.
 
-# H1 Technologies web
+# Technologies web
 
 HTML, CSS, 
 JavaScript, jQuery,
